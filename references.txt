@@ -1,0 +1,9 @@
+✅ Criação das interfaces: stitch/figma-make
+✅ Inspiração/referencia : https://dribbble.com/shots/6563578-Pokedex-App-Animation
+✅ Código otimizado para listar de 20 em 20 pokémons;
+✅ Carregamento automático no scroll;
+✅ Adicionado styled-components como diz no readme;
+✅ ShareAPI do reactnative para implementar o botão compartilhar como diz no readme;
+
+
+
